@@ -1,0 +1,7 @@
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.11_Area_del_triangulo\U3.11_Area_del_triangulo\bin\Debug\U3.11_Area_del_triangulo.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.11_Area_del_triangulo\U3.11_Area_del_triangulo\bin\Debug\U3.11_Area_del_triangulo.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.11_Area_del_triangulo\U3.11_Area_del_triangulo\bin\Debug\U3.11_Area_del_triangulo.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.11_Area_del_triangulo\U3.11_Area_del_triangulo\obj\Debug\U3.11_Area_del_triangulo.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.11_Area_del_triangulo\U3.11_Area_del_triangulo\obj\Debug\U3.11_Area_del_triangulo.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.11_Area_del_triangulo\U3.11_Area_del_triangulo\obj\Debug\U3.11_Area_del_triangulo.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.11_Area_del_triangulo\U3.11_Area_del_triangulo\obj\Debug\U3.11_Area_del_triangulo.pdb

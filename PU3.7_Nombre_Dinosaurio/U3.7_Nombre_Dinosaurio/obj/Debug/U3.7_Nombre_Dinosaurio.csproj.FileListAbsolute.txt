@@ -1,0 +1,14 @@
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.7_Nombre_Dinosaurio\U3.7_Nombre_Dinosaurio\bin\Debug\U3.7_Nombre_Dinosaurio.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.7_Nombre_Dinosaurio\U3.7_Nombre_Dinosaurio\bin\Debug\U3.7_Nombre_Dinosaurio.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.7_Nombre_Dinosaurio\U3.7_Nombre_Dinosaurio\bin\Debug\U3.7_Nombre_Dinosaurio.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.7_Nombre_Dinosaurio\U3.7_Nombre_Dinosaurio\obj\Debug\U3.7_Nombre_Dinosaurio.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.7_Nombre_Dinosaurio\U3.7_Nombre_Dinosaurio\obj\Debug\U3.7_Nombre_Dinosaurio.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.7_Nombre_Dinosaurio\U3.7_Nombre_Dinosaurio\obj\Debug\U3.7_Nombre_Dinosaurio.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.7_Nombre_Dinosaurio\U3.7_Nombre_Dinosaurio\obj\Debug\U3.7_Nombre_Dinosaurio.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.7_Nombre_Dinosaurio\U3.7_Nombre_Dinosaurio\bin\Debug\U3.7_Nombre_Dinosaurio.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.7_Nombre_Dinosaurio\U3.7_Nombre_Dinosaurio\bin\Debug\U3.7_Nombre_Dinosaurio.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.7_Nombre_Dinosaurio\U3.7_Nombre_Dinosaurio\bin\Debug\U3.7_Nombre_Dinosaurio.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.7_Nombre_Dinosaurio\U3.7_Nombre_Dinosaurio\obj\Debug\U3.7_Nombre_Dinosaurio.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.7_Nombre_Dinosaurio\U3.7_Nombre_Dinosaurio\obj\Debug\U3.7_Nombre_Dinosaurio.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.7_Nombre_Dinosaurio\U3.7_Nombre_Dinosaurio\obj\Debug\U3.7_Nombre_Dinosaurio.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.7_Nombre_Dinosaurio\U3.7_Nombre_Dinosaurio\obj\Debug\U3.7_Nombre_Dinosaurio.pdb

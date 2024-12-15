@@ -1,0 +1,7 @@
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.26_Descuentos\PU3.26_Descuentos\bin\Debug\PU3.26_Descuentos.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.26_Descuentos\PU3.26_Descuentos\bin\Debug\PU3.26_Descuentos.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.26_Descuentos\PU3.26_Descuentos\bin\Debug\PU3.26_Descuentos.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.26_Descuentos\PU3.26_Descuentos\obj\Debug\PU3.26_Descuentos.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.26_Descuentos\PU3.26_Descuentos\obj\Debug\PU3.26_Descuentos.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.26_Descuentos\PU3.26_Descuentos\obj\Debug\PU3.26_Descuentos.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.26_Descuentos\PU3.26_Descuentos\obj\Debug\PU3.26_Descuentos.pdb

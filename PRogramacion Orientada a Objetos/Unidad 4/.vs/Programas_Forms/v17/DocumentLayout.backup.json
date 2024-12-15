@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PRogramacion Orientada a Objetos\\Unidad 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB00D43-CC61-4D9F-AD35-03844B059282}|Empleado\\Programas_Forms.csproj|c:\\users\\windows\\onedrive\\escritorio\\proyectos visual estudio\\programacion orientada a objetos\\unidad 4\\empleado\\formbancoinicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB00D43-CC61-4D9F-AD35-03844B059282}|Empleado\\Programas_Forms.csproj|solutionrelative:empleado\\formbancoinicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB00D43-CC61-4D9F-AD35-03844B059282}|Empleado\\Programas_Forms.csproj|c:\\users\\windows\\onedrive\\escritorio\\proyectos visual estudio\\programacion orientada a objetos\\unidad 4\\empleado\\formbancoinicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FB00D43-CC61-4D9F-AD35-03844B059282}|Empleado\\Programas_Forms.csproj|solutionrelative:empleado\\formbancoinicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB00D43-CC61-4D9F-AD35-03844B059282}|Empleado\\Programas_Forms.csproj|c:\\users\\windows\\onedrive\\escritorio\\proyectos visual estudio\\programacion orientada a objetos\\unidad 4\\empleado\\formbancoinicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB00D43-CC61-4D9F-AD35-03844B059282}|Empleado\\Programas_Forms.csproj|solutionrelative:empleado\\formbancoinicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB00D43-CC61-4D9F-AD35-03844B059282}|Empleado\\Programas_Forms.csproj|c:\\users\\windows\\onedrive\\escritorio\\proyectos visual estudio\\programacion orientada a objetos\\unidad 4\\empleado\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB00D43-CC61-4D9F-AD35-03844B059282}|Empleado\\Programas_Forms.csproj|solutionrelative:empleado\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB00D43-CC61-4D9F-AD35-03844B059282}|Empleado\\Programas_Forms.csproj|c:\\users\\windows\\onedrive\\escritorio\\proyectos visual estudio\\programacion orientada a objetos\\unidad 4\\empleado\\formalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FB00D43-CC61-4D9F-AD35-03844B059282}|Empleado\\Programas_Forms.csproj|solutionrelative:empleado\\formalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB00D43-CC61-4D9F-AD35-03844B059282}|Empleado\\Programas_Forms.csproj|c:\\users\\windows\\onedrive\\escritorio\\proyectos visual estudio\\programacion orientada a objetos\\unidad 4\\empleado\\alumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB00D43-CC61-4D9F-AD35-03844B059282}|Empleado\\Programas_Forms.csproj|solutionrelative:empleado\\alumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormBancoInicio.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PRogramacion Orientada a Objetos\\Unidad 4\\Empleado\\FormBancoInicio.Designer.cs",
+              "RelativeDocumentMoniker": "Empleado\\FormBancoInicio.Designer.cs",
+              "ToolTip": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PRogramacion Orientada a Objetos\\Unidad 4\\Empleado\\FormBancoInicio.Designer.cs",
+              "RelativeToolTip": "Empleado\\FormBancoInicio.Designer.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAlwL0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T16:17:25.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Banco.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PRogramacion Orientada a Objetos\\Unidad 4\\Empleado\\Banco.cs",
+              "RelativeDocumentMoniker": "Empleado\\Banco.cs",
+              "ToolTip": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PRogramacion Orientada a Objetos\\Unidad 4\\Empleado\\Banco.cs",
+              "RelativeToolTip": "Empleado\\Banco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T04:55:32.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormBancoInicio.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PRogramacion Orientada a Objetos\\Unidad 4\\Empleado\\FormBancoInicio.cs",
+              "RelativeDocumentMoniker": "Empleado\\FormBancoInicio.cs",
+              "ToolTip": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PRogramacion Orientada a Objetos\\Unidad 4\\Empleado\\FormBancoInicio.cs",
+              "RelativeToolTip": "Empleado\\FormBancoInicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T04:53:04.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormBancoInicio.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PRogramacion Orientada a Objetos\\Unidad 4\\Empleado\\FormBancoInicio.cs",
+              "RelativeDocumentMoniker": "Empleado\\FormBancoInicio.cs",
+              "ToolTip": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PRogramacion Orientada a Objetos\\Unidad 4\\Empleado\\FormBancoInicio.cs [Design]",
+              "RelativeToolTip": "Empleado\\FormBancoInicio.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T04:50:24.655Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormAlumno.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PRogramacion Orientada a Objetos\\Unidad 4\\Empleado\\FormAlumno.cs",
+              "RelativeDocumentMoniker": "Empleado\\FormAlumno.cs",
+              "ToolTip": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PRogramacion Orientada a Objetos\\Unidad 4\\Empleado\\FormAlumno.cs [Design]",
+              "RelativeToolTip": "Empleado\\FormAlumno.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T04:50:19.459Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Alumnos.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PRogramacion Orientada a Objetos\\Unidad 4\\Empleado\\Alumnos.cs",
+              "RelativeDocumentMoniker": "Empleado\\Alumnos.cs",
+              "ToolTip": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PRogramacion Orientada a Objetos\\Unidad 4\\Empleado\\Alumnos.cs",
+              "RelativeToolTip": "Empleado\\Alumnos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T21:30:13.495Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

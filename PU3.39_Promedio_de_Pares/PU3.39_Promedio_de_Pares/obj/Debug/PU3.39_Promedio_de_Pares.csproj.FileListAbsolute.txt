@@ -1,0 +1,14 @@
+C:\Users\Windows\source\repos\PU3.39_Promedio_de_Pares\PU3.39_Promedio_de_Pares\bin\Debug\PU3.39_Promedio_de_Pares.exe.config
+C:\Users\Windows\source\repos\PU3.39_Promedio_de_Pares\PU3.39_Promedio_de_Pares\bin\Debug\PU3.39_Promedio_de_Pares.exe
+C:\Users\Windows\source\repos\PU3.39_Promedio_de_Pares\PU3.39_Promedio_de_Pares\bin\Debug\PU3.39_Promedio_de_Pares.pdb
+C:\Users\Windows\source\repos\PU3.39_Promedio_de_Pares\PU3.39_Promedio_de_Pares\obj\Debug\PU3.39_Promedio_de_Pares.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\PU3.39_Promedio_de_Pares\PU3.39_Promedio_de_Pares\obj\Debug\PU3.39_Promedio_de_Pares.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\PU3.39_Promedio_de_Pares\PU3.39_Promedio_de_Pares\obj\Debug\PU3.39_Promedio_de_Pares.exe
+C:\Users\Windows\source\repos\PU3.39_Promedio_de_Pares\PU3.39_Promedio_de_Pares\obj\Debug\PU3.39_Promedio_de_Pares.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.39_Promedio_de_Pares\PU3.39_Promedio_de_Pares\bin\Debug\PU3.39_Promedio_de_Pares.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.39_Promedio_de_Pares\PU3.39_Promedio_de_Pares\bin\Debug\PU3.39_Promedio_de_Pares.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.39_Promedio_de_Pares\PU3.39_Promedio_de_Pares\bin\Debug\PU3.39_Promedio_de_Pares.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.39_Promedio_de_Pares\PU3.39_Promedio_de_Pares\obj\Debug\PU3.39_Promedio_de_Pares.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.39_Promedio_de_Pares\PU3.39_Promedio_de_Pares\obj\Debug\PU3.39_Promedio_de_Pares.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.39_Promedio_de_Pares\PU3.39_Promedio_de_Pares\obj\Debug\PU3.39_Promedio_de_Pares.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.39_Promedio_de_Pares\PU3.39_Promedio_de_Pares\obj\Debug\PU3.39_Promedio_de_Pares.pdb

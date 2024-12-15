@@ -1,0 +1,7 @@
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.3_Cubo\U3.3_Cubo\bin\Debug\U3.3_Cubo.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.3_Cubo\U3.3_Cubo\bin\Debug\U3.3_Cubo.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.3_Cubo\U3.3_Cubo\bin\Debug\U3.3_Cubo.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.3_Cubo\U3.3_Cubo\obj\Debug\U3.3_Cubo.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.3_Cubo\U3.3_Cubo\obj\Debug\U3.3_Cubo.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.3_Cubo\U3.3_Cubo\obj\Debug\U3.3_Cubo.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.3_Cubo\U3.3_Cubo\obj\Debug\U3.3_Cubo.pdb

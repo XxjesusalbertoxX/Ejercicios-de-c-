@@ -1,0 +1,14 @@
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.1_Exprecion\U3.1_Exprecion\bin\Debug\U3.1_Exprecion.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.1_Exprecion\U3.1_Exprecion\bin\Debug\U3.1_Exprecion.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.1_Exprecion\U3.1_Exprecion\bin\Debug\U3.1_Exprecion.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.1_Exprecion\U3.1_Exprecion\obj\Debug\U3.1_Exprecion.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.1_Exprecion\U3.1_Exprecion\obj\Debug\U3.1_Exprecion.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.1_Exprecion\U3.1_Exprecion\obj\Debug\U3.1_Exprecion.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.1_Exprecion\U3.1_Exprecion\obj\Debug\U3.1_Exprecion.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.1_Exprecion\U3.1_Exprecion\bin\Debug\U3.1_Exprecion.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.1_Exprecion\U3.1_Exprecion\bin\Debug\U3.1_Exprecion.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.1_Exprecion\U3.1_Exprecion\bin\Debug\U3.1_Exprecion.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.1_Exprecion\U3.1_Exprecion\obj\Debug\U3.1_Exprecion.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.1_Exprecion\U3.1_Exprecion\obj\Debug\U3.1_Exprecion.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.1_Exprecion\U3.1_Exprecion\obj\Debug\U3.1_Exprecion.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.1_Exprecion\U3.1_Exprecion\obj\Debug\U3.1_Exprecion.pdb

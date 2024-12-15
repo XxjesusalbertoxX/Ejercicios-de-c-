@@ -1,0 +1,14 @@
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Carroscarrera\Carroscarrera\bin\Debug\Carroscarrera.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Carroscarrera\Carroscarrera\bin\Debug\Carroscarrera.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Carroscarrera\Carroscarrera\bin\Debug\Carroscarrera.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Carroscarrera\Carroscarrera\obj\Debug\Carroscarrera.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Carroscarrera\Carroscarrera\obj\Debug\Carroscarrera.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Carroscarrera\Carroscarrera\obj\Debug\Carroscarrera.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Carroscarrera\Carroscarrera\obj\Debug\Carroscarrera.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\Carroscarrera\Carroscarrera\bin\Debug\Carroscarrera.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\Carroscarrera\Carroscarrera\bin\Debug\Carroscarrera.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\Carroscarrera\Carroscarrera\bin\Debug\Carroscarrera.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\Carroscarrera\Carroscarrera\obj\Debug\Carroscarrera.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\Carroscarrera\Carroscarrera\obj\Debug\Carroscarrera.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\Carroscarrera\Carroscarrera\obj\Debug\Carroscarrera.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\Carroscarrera\Carroscarrera\obj\Debug\Carroscarrera.pdb

@@ -1,0 +1,7 @@
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.28_Par_o_Impar\PU3.28_Par_o_Impar\bin\Debug\PU3.28_Par_o_Impar.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.28_Par_o_Impar\PU3.28_Par_o_Impar\bin\Debug\PU3.28_Par_o_Impar.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.28_Par_o_Impar\PU3.28_Par_o_Impar\bin\Debug\PU3.28_Par_o_Impar.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.28_Par_o_Impar\PU3.28_Par_o_Impar\obj\Debug\PU3.28_Par_o_Impar.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.28_Par_o_Impar\PU3.28_Par_o_Impar\obj\Debug\PU3.28_Par_o_Impar.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.28_Par_o_Impar\PU3.28_Par_o_Impar\obj\Debug\PU3.28_Par_o_Impar.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.28_Par_o_Impar\PU3.28_Par_o_Impar\obj\Debug\PU3.28_Par_o_Impar.pdb

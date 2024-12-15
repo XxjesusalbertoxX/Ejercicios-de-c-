@@ -1,0 +1,7 @@
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.15_Sueldo_Aumento\PU3.15_Sueldo_Aumento\bin\Debug\PU3.15_Sueldo_Aumento.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.15_Sueldo_Aumento\PU3.15_Sueldo_Aumento\bin\Debug\PU3.15_Sueldo_Aumento.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.15_Sueldo_Aumento\PU3.15_Sueldo_Aumento\bin\Debug\PU3.15_Sueldo_Aumento.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.15_Sueldo_Aumento\PU3.15_Sueldo_Aumento\obj\Debug\PU3.15_Sueldo_Aumento.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.15_Sueldo_Aumento\PU3.15_Sueldo_Aumento\obj\Debug\PU3.15_Sueldo_Aumento.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.15_Sueldo_Aumento\PU3.15_Sueldo_Aumento\obj\Debug\PU3.15_Sueldo_Aumento.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.15_Sueldo_Aumento\PU3.15_Sueldo_Aumento\obj\Debug\PU3.15_Sueldo_Aumento.pdb

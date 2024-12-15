@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PU3.16_Grillo_Temperatura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C0EA17-DE6D-4B44-A8A7-B3C419E7A008}|PU3.16_Grillo_Temperatura\\PU3.16_Grillo_Temperatura.csproj|c:\\users\\windows\\onedrive\\escritorio\\proyectos visual estudio\\pu3.16_grillo_temperatura\\pu3.16_grillo_temperatura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C0EA17-DE6D-4B44-A8A7-B3C419E7A008}|PU3.16_Grillo_Temperatura\\PU3.16_Grillo_Temperatura.csproj|solutionrelative:pu3.16_grillo_temperatura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PU3.16_Grillo_Temperatura\\PU3.16_Grillo_Temperatura\\Program.cs",
+              "RelativeDocumentMoniker": "PU3.16_Grillo_Temperatura\\Program.cs",
+              "ToolTip": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PU3.16_Grillo_Temperatura\\PU3.16_Grillo_Temperatura\\Program.cs",
+              "RelativeToolTip": "PU3.16_Grillo_Temperatura\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T19:57:53.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Windows\source\repos\Pitagoras\Pitagoras\bin\Debug\Pitagoras.exe.config
+C:\Users\Windows\source\repos\Pitagoras\Pitagoras\bin\Debug\Pitagoras.exe
+C:\Users\Windows\source\repos\Pitagoras\Pitagoras\bin\Debug\Pitagoras.pdb
+C:\Users\Windows\source\repos\Pitagoras\Pitagoras\obj\Debug\Pitagoras.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\Pitagoras\Pitagoras\obj\Debug\Pitagoras.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\Pitagoras\Pitagoras\obj\Debug\Pitagoras.exe
+C:\Users\Windows\source\repos\Pitagoras\Pitagoras\obj\Debug\Pitagoras.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\Pitagoras\Pitagoras\bin\Debug\Pitagoras.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\Pitagoras\Pitagoras\bin\Debug\Pitagoras.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\Pitagoras\Pitagoras\bin\Debug\Pitagoras.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\Pitagoras\Pitagoras\obj\Debug\Pitagoras.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\Pitagoras\Pitagoras\obj\Debug\Pitagoras.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\Pitagoras\Pitagoras\obj\Debug\Pitagoras.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\Pitagoras\Pitagoras\obj\Debug\Pitagoras.pdb

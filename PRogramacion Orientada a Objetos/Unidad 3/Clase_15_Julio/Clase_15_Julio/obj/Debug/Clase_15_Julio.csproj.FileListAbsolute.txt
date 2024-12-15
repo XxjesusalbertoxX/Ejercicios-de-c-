@@ -1,0 +1,10 @@
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 3\Clase_15_Julio\Clase_15_Julio\bin\Debug\Clase_15_Julio.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 3\Clase_15_Julio\Clase_15_Julio\bin\Debug\Clase_15_Julio.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 3\Clase_15_Julio\Clase_15_Julio\bin\Debug\Clase_15_Julio.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 3\Clase_15_Julio\Clase_15_Julio\obj\Debug\Clase_15_Julio.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 3\Clase_15_Julio\Clase_15_Julio\obj\Debug\Clase_15_Julio.FormCarros.resources
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 3\Clase_15_Julio\Clase_15_Julio\obj\Debug\Clase_15_Julio.Properties.Resources.resources
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 3\Clase_15_Julio\Clase_15_Julio\obj\Debug\Clase_15_Julio.csproj.GenerateResource.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 3\Clase_15_Julio\Clase_15_Julio\obj\Debug\Clase_15_Julio.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 3\Clase_15_Julio\Clase_15_Julio\obj\Debug\Clase_15_Julio.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 3\Clase_15_Julio\Clase_15_Julio\obj\Debug\Clase_15_Julio.pdb

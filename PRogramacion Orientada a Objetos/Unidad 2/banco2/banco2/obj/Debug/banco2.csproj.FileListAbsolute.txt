@@ -1,0 +1,7 @@
+C:\Users\Windows\source\repos\banco2\banco2\bin\Debug\banco2.exe.config
+C:\Users\Windows\source\repos\banco2\banco2\bin\Debug\banco2.exe
+C:\Users\Windows\source\repos\banco2\banco2\bin\Debug\banco2.pdb
+C:\Users\Windows\source\repos\banco2\banco2\obj\Debug\banco2.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\banco2\banco2\obj\Debug\banco2.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\banco2\banco2\obj\Debug\banco2.exe
+C:\Users\Windows\source\repos\banco2\banco2\obj\Debug\banco2.pdb

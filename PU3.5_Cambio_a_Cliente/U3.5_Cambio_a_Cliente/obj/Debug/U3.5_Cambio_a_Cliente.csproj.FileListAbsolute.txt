@@ -1,0 +1,14 @@
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.5_Cambio_a_Cliente\U3.5_Cambio_a_Cliente\bin\Debug\U3.5_Cambio_a_Cliente.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.5_Cambio_a_Cliente\U3.5_Cambio_a_Cliente\bin\Debug\U3.5_Cambio_a_Cliente.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.5_Cambio_a_Cliente\U3.5_Cambio_a_Cliente\bin\Debug\U3.5_Cambio_a_Cliente.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.5_Cambio_a_Cliente\U3.5_Cambio_a_Cliente\obj\Debug\U3.5_Cambio_a_Cliente.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.5_Cambio_a_Cliente\U3.5_Cambio_a_Cliente\obj\Debug\U3.5_Cambio_a_Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.5_Cambio_a_Cliente\U3.5_Cambio_a_Cliente\obj\Debug\U3.5_Cambio_a_Cliente.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.5_Cambio_a_Cliente\U3.5_Cambio_a_Cliente\obj\Debug\U3.5_Cambio_a_Cliente.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.5_Cambio_a_Cliente\U3.5_Cambio_a_Cliente\bin\Debug\U3.5_Cambio_a_Cliente.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.5_Cambio_a_Cliente\U3.5_Cambio_a_Cliente\bin\Debug\U3.5_Cambio_a_Cliente.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.5_Cambio_a_Cliente\U3.5_Cambio_a_Cliente\bin\Debug\U3.5_Cambio_a_Cliente.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.5_Cambio_a_Cliente\U3.5_Cambio_a_Cliente\obj\Debug\U3.5_Cambio_a_Cliente.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.5_Cambio_a_Cliente\U3.5_Cambio_a_Cliente\obj\Debug\U3.5_Cambio_a_Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.5_Cambio_a_Cliente\U3.5_Cambio_a_Cliente\obj\Debug\U3.5_Cambio_a_Cliente.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.5_Cambio_a_Cliente\U3.5_Cambio_a_Cliente\obj\Debug\U3.5_Cambio_a_Cliente.pdb

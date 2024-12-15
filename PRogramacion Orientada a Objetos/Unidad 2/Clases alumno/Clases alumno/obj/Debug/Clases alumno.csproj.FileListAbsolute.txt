@@ -1,0 +1,14 @@
+C:\Users\Windows\source\repos\Clases alumno\Clases alumno\obj\Debug\Clases alumno.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\Clases alumno\Clases alumno\obj\Debug\Clases alumno.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\Clases alumno\Clases alumno\bin\Debug\Clases alumno.exe.config
+C:\Users\Windows\source\repos\Clases alumno\Clases alumno\bin\Debug\Clases alumno.exe
+C:\Users\Windows\source\repos\Clases alumno\Clases alumno\bin\Debug\Clases alumno.pdb
+C:\Users\Windows\source\repos\Clases alumno\Clases alumno\obj\Debug\Clases alumno.exe
+C:\Users\Windows\source\repos\Clases alumno\Clases alumno\obj\Debug\Clases alumno.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\Clases alumno\Clases alumno\bin\Debug\Clases alumno.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\Clases alumno\Clases alumno\bin\Debug\Clases alumno.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\Clases alumno\Clases alumno\bin\Debug\Clases alumno.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\Clases alumno\Clases alumno\obj\Debug\Clases alumno.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\Clases alumno\Clases alumno\obj\Debug\Clases alumno.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\Clases alumno\Clases alumno\obj\Debug\Clases alumno.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\Clases alumno\Clases alumno\obj\Debug\Clases alumno.pdb

@@ -1,0 +1,10 @@
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\i'm_use_the_Random_Class\i'm_use_the_Random_Class\bin\Debug\i'm_use_the_Random_Class.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\i'm_use_the_Random_Class\i'm_use_the_Random_Class\bin\Debug\i'm_use_the_Random_Class.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\i'm_use_the_Random_Class\i'm_use_the_Random_Class\bin\Debug\i'm_use_the_Random_Class.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\i'm_use_the_Random_Class\i'm_use_the_Random_Class\obj\Debug\i'm_use_the_Random_Class.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\i'm_use_the_Random_Class\i'm_use_the_Random_Class\obj\Debug\i_m_use_the_Random_Class.Form1.resources
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\i'm_use_the_Random_Class\i'm_use_the_Random_Class\obj\Debug\i_m_use_the_Random_Class.Properties.Resources.resources
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\i'm_use_the_Random_Class\i'm_use_the_Random_Class\obj\Debug\i'm_use_the_Random_Class.csproj.GenerateResource.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\i'm_use_the_Random_Class\i'm_use_the_Random_Class\obj\Debug\i'm_use_the_Random_Class.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\i'm_use_the_Random_Class\i'm_use_the_Random_Class\obj\Debug\i'm_use_the_Random_Class.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\i'm_use_the_Random_Class\i'm_use_the_Random_Class\obj\Debug\i'm_use_the_Random_Class.pdb

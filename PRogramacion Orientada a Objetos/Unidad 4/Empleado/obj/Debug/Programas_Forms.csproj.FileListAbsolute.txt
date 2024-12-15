@@ -1,0 +1,48 @@
+C:\Users\uriel\source\repos\Empleado\Empleado\bin\Debug\Empleado.exe.config
+C:\Users\uriel\source\repos\Empleado\Empleado\bin\Debug\Empleado.exe
+C:\Users\uriel\source\repos\Empleado\Empleado\bin\Debug\Empleado.pdb
+C:\Users\uriel\source\repos\Empleado\Empleado\obj\Debug\Programas_Forms.csproj.AssemblyReference.cache
+C:\Users\uriel\source\repos\Empleado\Empleado\obj\Debug\Empleado.Alumno.resources
+C:\Users\uriel\source\repos\Empleado\Empleado\obj\Debug\Empleado.BancoInterfaz.resources
+C:\Users\uriel\source\repos\Empleado\Empleado\obj\Debug\Empleado.BancoLogin.resources
+C:\Users\uriel\source\repos\Empleado\Empleado\obj\Debug\Empleado.Figuras.resources
+C:\Users\uriel\source\repos\Empleado\Empleado\obj\Debug\Empleado.InterfazEmpleados.resources
+C:\Users\uriel\source\repos\Empleado\Empleado\obj\Debug\Empleado.Menu.resources
+C:\Users\uriel\source\repos\Empleado\Empleado\obj\Debug\Empleado.Properties.Resources.resources
+C:\Users\uriel\source\repos\Empleado\Empleado\obj\Debug\Programas_Forms.csproj.GenerateResource.cache
+C:\Users\uriel\source\repos\Empleado\Empleado\obj\Debug\Programas_Forms.csproj.CoreCompileInputs.cache
+C:\Users\uriel\source\repos\Empleado\Empleado\obj\Debug\Empleado.exe
+C:\Users\uriel\source\repos\Empleado\Empleado\obj\Debug\Empleado.pdb
+C:\Users\uriel\source\repos\Empleado\Empleado\obj\Debug\Empleado.Reporte_de_Ventas.resources
+C:\Users\Windows\Downloads\Empleado\Empleado\Empleado\bin\Debug\Empleado.exe.config
+C:\Users\Windows\Downloads\Empleado\Empleado\Empleado\bin\Debug\Empleado.exe
+C:\Users\Windows\Downloads\Empleado\Empleado\Empleado\bin\Debug\Empleado.pdb
+C:\Users\Windows\Downloads\Empleado\Empleado\Empleado\obj\Debug\Programas_Forms.csproj.AssemblyReference.cache
+C:\Users\Windows\Downloads\Empleado\Empleado\Empleado\obj\Debug\Empleado.Alumno.resources
+C:\Users\Windows\Downloads\Empleado\Empleado\Empleado\obj\Debug\Empleado.BancoInterfaz.resources
+C:\Users\Windows\Downloads\Empleado\Empleado\Empleado\obj\Debug\Empleado.BancoLogin.resources
+C:\Users\Windows\Downloads\Empleado\Empleado\Empleado\obj\Debug\Empleado.Figuras.resources
+C:\Users\Windows\Downloads\Empleado\Empleado\Empleado\obj\Debug\Empleado.InterfazEmpleados.resources
+C:\Users\Windows\Downloads\Empleado\Empleado\Empleado\obj\Debug\Empleado.Menu.resources
+C:\Users\Windows\Downloads\Empleado\Empleado\Empleado\obj\Debug\Empleado.Properties.Resources.resources
+C:\Users\Windows\Downloads\Empleado\Empleado\Empleado\obj\Debug\Empleado.Reporte_de_Ventas.resources
+C:\Users\Windows\Downloads\Empleado\Empleado\Empleado\obj\Debug\Programas_Forms.csproj.GenerateResource.cache
+C:\Users\Windows\Downloads\Empleado\Empleado\Empleado\obj\Debug\Programas_Forms.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Downloads\Empleado\Empleado\Empleado\obj\Debug\Empleado.exe
+C:\Users\Windows\Downloads\Empleado\Empleado\Empleado\obj\Debug\Empleado.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 4\Empleado\bin\Debug\Empleado.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 4\Empleado\bin\Debug\Empleado.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 4\Empleado\bin\Debug\Empleado.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 4\Empleado\obj\Debug\Programas_Forms.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 4\Empleado\obj\Debug\Empleado.FormAlumno.resources
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 4\Empleado\obj\Debug\Empleado.FormBancoInicio.resources
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 4\Empleado\obj\Debug\Empleado.FormLoginBanco.resources
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 4\Empleado\obj\Debug\Empleado.FormFiguras.resources
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 4\Empleado\obj\Debug\Empleado.FormEmpleados.resources
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 4\Empleado\obj\Debug\Empleado.Menu.resources
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 4\Empleado\obj\Debug\Empleado.Properties.Resources.resources
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 4\Empleado\obj\Debug\Empleado.Reporte_de_Ventas.resources
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 4\Empleado\obj\Debug\Programas_Forms.csproj.GenerateResource.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 4\Empleado\obj\Debug\Programas_Forms.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 4\Empleado\obj\Debug\Empleado.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 4\Empleado\obj\Debug\Empleado.pdb

@@ -1,0 +1,7 @@
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.19_Dividir_Entre_0\PU3.19_Dividir_Entre_0\bin\Debug\PU3.19_Dividir_Entre_0.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.19_Dividir_Entre_0\PU3.19_Dividir_Entre_0\bin\Debug\PU3.19_Dividir_Entre_0.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.19_Dividir_Entre_0\PU3.19_Dividir_Entre_0\bin\Debug\PU3.19_Dividir_Entre_0.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.19_Dividir_Entre_0\PU3.19_Dividir_Entre_0\obj\Debug\PU3.19_Dividir_Entre_0.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.19_Dividir_Entre_0\PU3.19_Dividir_Entre_0\obj\Debug\PU3.19_Dividir_Entre_0.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.19_Dividir_Entre_0\PU3.19_Dividir_Entre_0\obj\Debug\PU3.19_Dividir_Entre_0.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.19_Dividir_Entre_0\PU3.19_Dividir_Entre_0\obj\Debug\PU3.19_Dividir_Entre_0.pdb

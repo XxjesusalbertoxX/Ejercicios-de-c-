@@ -1,0 +1,7 @@
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.6_Area_y_ Perimetro_Triangulo\U3.6_Area_y_ Perimetro_Triangulo\bin\Debug\U3.6_Area_y_ Perimetro_Triangulo.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.6_Area_y_ Perimetro_Triangulo\U3.6_Area_y_ Perimetro_Triangulo\bin\Debug\U3.6_Area_y_ Perimetro_Triangulo.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.6_Area_y_ Perimetro_Triangulo\U3.6_Area_y_ Perimetro_Triangulo\bin\Debug\U3.6_Area_y_ Perimetro_Triangulo.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.6_Area_y_ Perimetro_Triangulo\U3.6_Area_y_ Perimetro_Triangulo\obj\Debug\U3.6_Area_y_ Perimetro_Triangulo.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.6_Area_y_ Perimetro_Triangulo\U3.6_Area_y_ Perimetro_Triangulo\obj\Debug\U3.6_Area_y_ Perimetro_Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.6_Area_y_ Perimetro_Triangulo\U3.6_Area_y_ Perimetro_Triangulo\obj\Debug\U3.6_Area_y_ Perimetro_Triangulo.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.6_Area_y_ Perimetro_Triangulo\U3.6_Area_y_ Perimetro_Triangulo\obj\Debug\U3.6_Area_y_ Perimetro_Triangulo.pdb

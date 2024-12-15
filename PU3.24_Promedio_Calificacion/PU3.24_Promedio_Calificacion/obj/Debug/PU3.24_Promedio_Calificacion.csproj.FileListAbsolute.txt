@@ -1,0 +1,7 @@
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.24_Promedio_Calificacion\PU3.24_Promedio_Calificacion\bin\Debug\PU3.24_Promedio_Calificacion.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.24_Promedio_Calificacion\PU3.24_Promedio_Calificacion\bin\Debug\PU3.24_Promedio_Calificacion.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.24_Promedio_Calificacion\PU3.24_Promedio_Calificacion\bin\Debug\PU3.24_Promedio_Calificacion.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.24_Promedio_Calificacion\PU3.24_Promedio_Calificacion\obj\Debug\PU3.24_Promedio_Calificacion.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.24_Promedio_Calificacion\PU3.24_Promedio_Calificacion\obj\Debug\PU3.24_Promedio_Calificacion.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.24_Promedio_Calificacion\PU3.24_Promedio_Calificacion\obj\Debug\PU3.24_Promedio_Calificacion.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.24_Promedio_Calificacion\PU3.24_Promedio_Calificacion\obj\Debug\PU3.24_Promedio_Calificacion.pdb

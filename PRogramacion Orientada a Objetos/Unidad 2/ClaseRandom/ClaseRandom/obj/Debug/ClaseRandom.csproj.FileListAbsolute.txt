@@ -1,0 +1,14 @@
+C:\Users\Windows\source\repos\ClaseRandom\ClaseRandom\bin\Debug\ClaseRandom.exe.config
+C:\Users\Windows\source\repos\ClaseRandom\ClaseRandom\bin\Debug\ClaseRandom.exe
+C:\Users\Windows\source\repos\ClaseRandom\ClaseRandom\bin\Debug\ClaseRandom.pdb
+C:\Users\Windows\source\repos\ClaseRandom\ClaseRandom\obj\Debug\ClaseRandom.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\ClaseRandom\ClaseRandom\obj\Debug\ClaseRandom.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\ClaseRandom\ClaseRandom\obj\Debug\ClaseRandom.exe
+C:\Users\Windows\source\repos\ClaseRandom\ClaseRandom\obj\Debug\ClaseRandom.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\ClaseRandom\ClaseRandom\bin\Debug\ClaseRandom.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\ClaseRandom\ClaseRandom\bin\Debug\ClaseRandom.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\ClaseRandom\ClaseRandom\bin\Debug\ClaseRandom.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\ClaseRandom\ClaseRandom\obj\Debug\ClaseRandom.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\ClaseRandom\ClaseRandom\obj\Debug\ClaseRandom.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\ClaseRandom\ClaseRandom\obj\Debug\ClaseRandom.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\ClaseRandom\ClaseRandom\obj\Debug\ClaseRandom.pdb

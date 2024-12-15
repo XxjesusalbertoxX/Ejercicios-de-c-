@@ -1,0 +1,7 @@
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.22_Aumento\PU3.22_Aumento\bin\Debug\PU3.22_Aumento.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.22_Aumento\PU3.22_Aumento\bin\Debug\PU3.22_Aumento.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.22_Aumento\PU3.22_Aumento\bin\Debug\PU3.22_Aumento.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.22_Aumento\PU3.22_Aumento\obj\Debug\PU3.22_Aumento.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.22_Aumento\PU3.22_Aumento\obj\Debug\PU3.22_Aumento.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.22_Aumento\PU3.22_Aumento\obj\Debug\PU3.22_Aumento.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.22_Aumento\PU3.22_Aumento\obj\Debug\PU3.22_Aumento.pdb

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PRogramacion Orientada a Objetos\\Unidad 2\\Banco v1.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79E5E109-6178-45C8-9B35-BC826C454964}|Banco v1.0\\Banco v1.0.csproj|C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PRogramacion Orientada a Objetos\\Unidad 2\\Banco v1.0\\banco v1.0\\cajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E5E109-6178-45C8-9B35-BC826C454964}|Banco v1.0\\Banco v1.0.csproj|solutionrelative:banco v1.0\\cajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E5E109-6178-45C8-9B35-BC826C454964}|Banco v1.0\\Banco v1.0.csproj|C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PRogramacion Orientada a Objetos\\Unidad 2\\Banco v1.0\\banco v1.0\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E5E109-6178-45C8-9B35-BC826C454964}|Banco v1.0\\Banco v1.0.csproj|solutionrelative:banco v1.0\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E5E109-6178-45C8-9B35-BC826C454964}|Banco v1.0\\Banco v1.0.csproj|c:\\users\\windows\\onedrive\\escritorio\\proyectos visual estudio\\programacion orientada a objetos\\unidad 2\\banco v1.0\\banco v1.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E5E109-6178-45C8-9B35-BC826C454964}|Banco v1.0\\Banco v1.0.csproj|solutionrelative:banco v1.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cajero.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PRogramacion Orientada a Objetos\\Unidad 2\\Banco v1.0\\Banco v1.0\\Cajero.cs",
+              "RelativeDocumentMoniker": "Banco v1.0\\Cajero.cs",
+              "ToolTip": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PRogramacion Orientada a Objetos\\Unidad 2\\Banco v1.0\\Banco v1.0\\Cajero.cs",
+              "RelativeToolTip": "Banco v1.0\\Cajero.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:40:00.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CuentaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PRogramacion Orientada a Objetos\\Unidad 2\\Banco v1.0\\Banco v1.0\\CuentaBancaria.cs",
+              "RelativeDocumentMoniker": "Banco v1.0\\CuentaBancaria.cs",
+              "ToolTip": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PRogramacion Orientada a Objetos\\Unidad 2\\Banco v1.0\\Banco v1.0\\CuentaBancaria.cs",
+              "RelativeToolTip": "Banco v1.0\\CuentaBancaria.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAEwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:32:02.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PRogramacion Orientada a Objetos\\Unidad 2\\Banco v1.0\\Banco v1.0\\Program.cs",
+              "RelativeDocumentMoniker": "Banco v1.0\\Program.cs",
+              "ToolTip": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PRogramacion Orientada a Objetos\\Unidad 2\\Banco v1.0\\Banco v1.0\\Program.cs",
+              "RelativeToolTip": "Banco v1.0\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:54:35.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

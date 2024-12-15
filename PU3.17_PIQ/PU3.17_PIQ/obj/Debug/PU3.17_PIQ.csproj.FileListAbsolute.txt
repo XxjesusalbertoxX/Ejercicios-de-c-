@@ -1,0 +1,7 @@
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.17_PIQ\PU3.17_PIQ\bin\Debug\PU3.17_PIQ.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.17_PIQ\PU3.17_PIQ\bin\Debug\PU3.17_PIQ.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.17_PIQ\PU3.17_PIQ\bin\Debug\PU3.17_PIQ.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.17_PIQ\PU3.17_PIQ\obj\Debug\PU3.17_PIQ.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.17_PIQ\PU3.17_PIQ\obj\Debug\PU3.17_PIQ.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.17_PIQ\PU3.17_PIQ\obj\Debug\PU3.17_PIQ.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.17_PIQ\PU3.17_PIQ\obj\Debug\PU3.17_PIQ.pdb

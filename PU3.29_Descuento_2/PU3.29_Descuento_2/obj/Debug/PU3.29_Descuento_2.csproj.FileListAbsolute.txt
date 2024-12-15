@@ -1,0 +1,7 @@
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.29_Descuento_2\PU3.29_Descuento_2\bin\Debug\PU3.29_Descuento_2.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.29_Descuento_2\PU3.29_Descuento_2\bin\Debug\PU3.29_Descuento_2.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.29_Descuento_2\PU3.29_Descuento_2\bin\Debug\PU3.29_Descuento_2.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.29_Descuento_2\PU3.29_Descuento_2\obj\Debug\PU3.29_Descuento_2.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.29_Descuento_2\PU3.29_Descuento_2\obj\Debug\PU3.29_Descuento_2.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.29_Descuento_2\PU3.29_Descuento_2\obj\Debug\PU3.29_Descuento_2.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.29_Descuento_2\PU3.29_Descuento_2\obj\Debug\PU3.29_Descuento_2.pdb

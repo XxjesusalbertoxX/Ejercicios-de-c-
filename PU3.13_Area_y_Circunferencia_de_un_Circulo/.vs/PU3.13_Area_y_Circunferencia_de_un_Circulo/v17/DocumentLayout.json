@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PU3.13_Area_y_Circunferencia_de_un_Circulo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD262DC1-0223-42EA-B98E-11D111508CA4}|PU3.13_Area_y_Circunferencia_de_un_Circulo\\PU3.13_Area_y_Circunferencia_de_un_Circulo.csproj|c:\\users\\windows\\onedrive\\escritorio\\proyectos visual estudio\\pu3.13_area_y_circunferencia_de_un_circulo\\pu3.13_area_y_circunferencia_de_un_circulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD262DC1-0223-42EA-B98E-11D111508CA4}|PU3.13_Area_y_Circunferencia_de_un_Circulo\\PU3.13_Area_y_Circunferencia_de_un_Circulo.csproj|solutionrelative:pu3.13_area_y_circunferencia_de_un_circulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PU3.13_Area_y_Circunferencia_de_un_Circulo\\PU3.13_Area_y_Circunferencia_de_un_Circulo\\Program.cs",
+              "RelativeDocumentMoniker": "PU3.13_Area_y_Circunferencia_de_un_Circulo\\Program.cs",
+              "ToolTip": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PU3.13_Area_y_Circunferencia_de_un_Circulo\\PU3.13_Area_y_Circunferencia_de_un_Circulo\\Program.cs",
+              "RelativeToolTip": "PU3.13_Area_y_Circunferencia_de_un_Circulo\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABkAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T04:51:42.056Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

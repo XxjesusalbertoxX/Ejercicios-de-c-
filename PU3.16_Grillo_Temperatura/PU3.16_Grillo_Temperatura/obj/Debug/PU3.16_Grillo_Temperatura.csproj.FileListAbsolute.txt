@@ -1,0 +1,7 @@
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.16_Grillo_Temperatura\PU3.16_Grillo_Temperatura\bin\Debug\PU3.16_Grillo_Temperatura.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.16_Grillo_Temperatura\PU3.16_Grillo_Temperatura\bin\Debug\PU3.16_Grillo_Temperatura.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.16_Grillo_Temperatura\PU3.16_Grillo_Temperatura\bin\Debug\PU3.16_Grillo_Temperatura.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.16_Grillo_Temperatura\PU3.16_Grillo_Temperatura\obj\Debug\PU3.16_Grillo_Temperatura.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.16_Grillo_Temperatura\PU3.16_Grillo_Temperatura\obj\Debug\PU3.16_Grillo_Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.16_Grillo_Temperatura\PU3.16_Grillo_Temperatura\obj\Debug\PU3.16_Grillo_Temperatura.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.16_Grillo_Temperatura\PU3.16_Grillo_Temperatura\obj\Debug\PU3.16_Grillo_Temperatura.pdb

@@ -1,0 +1,14 @@
+C:\Users\Windows\source\repos\Examen_V3_Jesus_Alberto\Examen_V3_Jesus_Alberto\bin\Debug\Examen_V3_Jesus_Alberto.exe.config
+C:\Users\Windows\source\repos\Examen_V3_Jesus_Alberto\Examen_V3_Jesus_Alberto\bin\Debug\Examen_V3_Jesus_Alberto.exe
+C:\Users\Windows\source\repos\Examen_V3_Jesus_Alberto\Examen_V3_Jesus_Alberto\bin\Debug\Examen_V3_Jesus_Alberto.pdb
+C:\Users\Windows\source\repos\Examen_V3_Jesus_Alberto\Examen_V3_Jesus_Alberto\obj\Debug\Examen_V3_Jesus_Alberto.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\Examen_V3_Jesus_Alberto\Examen_V3_Jesus_Alberto\obj\Debug\Examen_V3_Jesus_Alberto.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\Examen_V3_Jesus_Alberto\Examen_V3_Jesus_Alberto\obj\Debug\Examen_V3_Jesus_Alberto.exe
+C:\Users\Windows\source\repos\Examen_V3_Jesus_Alberto\Examen_V3_Jesus_Alberto\obj\Debug\Examen_V3_Jesus_Alberto.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\Examen_V3_Jesus_Alberto_Villarreal_Perez\Examen_V3_Jesus_Alberto\bin\Debug\Examen_V3_Jesus_Alberto.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\Examen_V3_Jesus_Alberto_Villarreal_Perez\Examen_V3_Jesus_Alberto\bin\Debug\Examen_V3_Jesus_Alberto.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\Examen_V3_Jesus_Alberto_Villarreal_Perez\Examen_V3_Jesus_Alberto\bin\Debug\Examen_V3_Jesus_Alberto.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\Examen_V3_Jesus_Alberto_Villarreal_Perez\Examen_V3_Jesus_Alberto\obj\Debug\Examen_V3_Jesus_Alberto.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\Examen_V3_Jesus_Alberto_Villarreal_Perez\Examen_V3_Jesus_Alberto\obj\Debug\Examen_V3_Jesus_Alberto.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\Examen_V3_Jesus_Alberto_Villarreal_Perez\Examen_V3_Jesus_Alberto\obj\Debug\Examen_V3_Jesus_Alberto.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\Examen_V3_Jesus_Alberto_Villarreal_Perez\Examen_V3_Jesus_Alberto\obj\Debug\Examen_V3_Jesus_Alberto.pdb

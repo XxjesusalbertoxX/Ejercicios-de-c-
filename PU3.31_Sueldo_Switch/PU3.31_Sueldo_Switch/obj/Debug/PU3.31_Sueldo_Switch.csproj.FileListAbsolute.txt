@@ -1,0 +1,7 @@
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.31_Sueldo_Switch\PU3.31_Sueldo_Switch\bin\Debug\PU3.31_Sueldo_Switch.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.31_Sueldo_Switch\PU3.31_Sueldo_Switch\bin\Debug\PU3.31_Sueldo_Switch.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.31_Sueldo_Switch\PU3.31_Sueldo_Switch\bin\Debug\PU3.31_Sueldo_Switch.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.31_Sueldo_Switch\PU3.31_Sueldo_Switch\obj\Debug\PU3.31_Sueldo_Switch.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.31_Sueldo_Switch\PU3.31_Sueldo_Switch\obj\Debug\PU3.31_Sueldo_Switch.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.31_Sueldo_Switch\PU3.31_Sueldo_Switch\obj\Debug\PU3.31_Sueldo_Switch.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.31_Sueldo_Switch\PU3.31_Sueldo_Switch\obj\Debug\PU3.31_Sueldo_Switch.pdb

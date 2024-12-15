@@ -1,0 +1,7 @@
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.46_Fibonnachi\PU3.46_Fibonnachi\bin\Debug\PU3.46_Fibonnachi.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.46_Fibonnachi\PU3.46_Fibonnachi\bin\Debug\PU3.46_Fibonnachi.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.46_Fibonnachi\PU3.46_Fibonnachi\bin\Debug\PU3.46_Fibonnachi.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.46_Fibonnachi\PU3.46_Fibonnachi\obj\Debug\PU3.46_Fibonnachi.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.46_Fibonnachi\PU3.46_Fibonnachi\obj\Debug\PU3.46_Fibonnachi.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.46_Fibonnachi\PU3.46_Fibonnachi\obj\Debug\PU3.46_Fibonnachi.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.46_Fibonnachi\PU3.46_Fibonnachi\obj\Debug\PU3.46_Fibonnachi.pdb

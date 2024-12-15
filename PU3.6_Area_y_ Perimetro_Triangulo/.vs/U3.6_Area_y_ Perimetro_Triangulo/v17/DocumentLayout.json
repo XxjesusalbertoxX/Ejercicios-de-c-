@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PU3.6_Area_y_ Perimetro_Triangulo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDFA43D-A3AE-48AB-8230-E13BD4ACE87A}|U3.6_Area_y_ Perimetro_Triangulo\\U3.6_Area_y_ Perimetro_Triangulo.csproj|c:\\users\\windows\\onedrive\\escritorio\\proyectos visual estudio\\pu3.6_area_y_ perimetro_triangulo\\u3.6_area_y_ perimetro_triangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDFA43D-A3AE-48AB-8230-E13BD4ACE87A}|U3.6_Area_y_ Perimetro_Triangulo\\U3.6_Area_y_ Perimetro_Triangulo.csproj|solutionrelative:u3.6_area_y_ perimetro_triangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PU3.6_Area_y_ Perimetro_Triangulo\\U3.6_Area_y_ Perimetro_Triangulo\\Program.cs",
+              "RelativeDocumentMoniker": "U3.6_Area_y_ Perimetro_Triangulo\\Program.cs",
+              "ToolTip": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PU3.6_Area_y_ Perimetro_Triangulo\\U3.6_Area_y_ Perimetro_Triangulo\\Program.cs",
+              "RelativeToolTip": "U3.6_Area_y_ Perimetro_Triangulo\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T20:03:08.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

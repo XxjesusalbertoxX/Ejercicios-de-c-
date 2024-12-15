@@ -1,0 +1,7 @@
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.35_Internos_Switch\PU3.35_Internos_Switch\bin\Debug\PU3.35_Internos_Switch.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.35_Internos_Switch\PU3.35_Internos_Switch\bin\Debug\PU3.35_Internos_Switch.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.35_Internos_Switch\PU3.35_Internos_Switch\bin\Debug\PU3.35_Internos_Switch.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.35_Internos_Switch\PU3.35_Internos_Switch\obj\Debug\PU3.35_Internos_Switch.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.35_Internos_Switch\PU3.35_Internos_Switch\obj\Debug\PU3.35_Internos_Switch.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.35_Internos_Switch\PU3.35_Internos_Switch\obj\Debug\PU3.35_Internos_Switch.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.35_Internos_Switch\PU3.35_Internos_Switch\obj\Debug\PU3.35_Internos_Switch.pdb

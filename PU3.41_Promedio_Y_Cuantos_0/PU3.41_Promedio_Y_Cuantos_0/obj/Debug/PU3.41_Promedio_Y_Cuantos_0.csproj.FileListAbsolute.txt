@@ -1,0 +1,7 @@
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.41_Promedio_Y_Cuantos_0\PU3.41_Promedio_Y_Cuantos_0\bin\Debug\PU3.41_Promedio_Y_Cuantos_0.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.41_Promedio_Y_Cuantos_0\PU3.41_Promedio_Y_Cuantos_0\bin\Debug\PU3.41_Promedio_Y_Cuantos_0.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.41_Promedio_Y_Cuantos_0\PU3.41_Promedio_Y_Cuantos_0\bin\Debug\PU3.41_Promedio_Y_Cuantos_0.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.41_Promedio_Y_Cuantos_0\PU3.41_Promedio_Y_Cuantos_0\obj\Debug\PU3.41_Promedio_Y_Cuantos_0.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.41_Promedio_Y_Cuantos_0\PU3.41_Promedio_Y_Cuantos_0\obj\Debug\PU3.41_Promedio_Y_Cuantos_0.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.41_Promedio_Y_Cuantos_0\PU3.41_Promedio_Y_Cuantos_0\obj\Debug\PU3.41_Promedio_Y_Cuantos_0.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.41_Promedio_Y_Cuantos_0\PU3.41_Promedio_Y_Cuantos_0\obj\Debug\PU3.41_Promedio_Y_Cuantos_0.pdb

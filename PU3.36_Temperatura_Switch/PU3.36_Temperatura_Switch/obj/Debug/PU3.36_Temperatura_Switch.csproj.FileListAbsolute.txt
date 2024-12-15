@@ -1,0 +1,14 @@
+C:\Users\Windows\source\repos\PU3.36_Temperatura_Switch\PU3.36_Temperatura_Switch\bin\Debug\PU3.36_Temperatura_Switch.exe.config
+C:\Users\Windows\source\repos\PU3.36_Temperatura_Switch\PU3.36_Temperatura_Switch\bin\Debug\PU3.36_Temperatura_Switch.exe
+C:\Users\Windows\source\repos\PU3.36_Temperatura_Switch\PU3.36_Temperatura_Switch\bin\Debug\PU3.36_Temperatura_Switch.pdb
+C:\Users\Windows\source\repos\PU3.36_Temperatura_Switch\PU3.36_Temperatura_Switch\obj\Debug\PU3.36_Temperatura_Switch.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\PU3.36_Temperatura_Switch\PU3.36_Temperatura_Switch\obj\Debug\PU3.36_Temperatura_Switch.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\PU3.36_Temperatura_Switch\PU3.36_Temperatura_Switch\obj\Debug\PU3.36_Temperatura_Switch.exe
+C:\Users\Windows\source\repos\PU3.36_Temperatura_Switch\PU3.36_Temperatura_Switch\obj\Debug\PU3.36_Temperatura_Switch.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.36_Temperatura_Switch\PU3.36_Temperatura_Switch\bin\Debug\PU3.36_Temperatura_Switch.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.36_Temperatura_Switch\PU3.36_Temperatura_Switch\bin\Debug\PU3.36_Temperatura_Switch.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.36_Temperatura_Switch\PU3.36_Temperatura_Switch\bin\Debug\PU3.36_Temperatura_Switch.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.36_Temperatura_Switch\PU3.36_Temperatura_Switch\obj\Debug\PU3.36_Temperatura_Switch.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.36_Temperatura_Switch\PU3.36_Temperatura_Switch\obj\Debug\PU3.36_Temperatura_Switch.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.36_Temperatura_Switch\PU3.36_Temperatura_Switch\obj\Debug\PU3.36_Temperatura_Switch.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.36_Temperatura_Switch\PU3.36_Temperatura_Switch\obj\Debug\PU3.36_Temperatura_Switch.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PU3.19_Dividir_Entre_0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F815F30-AF5F-4B51-B28A-8F952AD56EF4}|PU3.19_Dividir_Entre_0\\PU3.19_Dividir_Entre_0.csproj|c:\\users\\windows\\onedrive\\escritorio\\proyectos visual estudio\\pu3.19_dividir_entre_0\\pu3.19_dividir_entre_0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F815F30-AF5F-4B51-B28A-8F952AD56EF4}|PU3.19_Dividir_Entre_0\\PU3.19_Dividir_Entre_0.csproj|solutionrelative:pu3.19_dividir_entre_0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PU3.19_Dividir_Entre_0\\PU3.19_Dividir_Entre_0\\Program.cs",
+              "RelativeDocumentMoniker": "PU3.19_Dividir_Entre_0\\Program.cs",
+              "ToolTip": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PU3.19_Dividir_Entre_0\\PU3.19_Dividir_Entre_0\\Program.cs",
+              "RelativeToolTip": "PU3.19_Dividir_Entre_0\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T18:04:21.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

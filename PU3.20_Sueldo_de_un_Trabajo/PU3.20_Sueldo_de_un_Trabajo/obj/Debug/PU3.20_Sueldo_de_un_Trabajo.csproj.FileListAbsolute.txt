@@ -1,0 +1,7 @@
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.20_Sueldo_de_un_Trabajo\PU3.20_Sueldo_de_un_Trabajo\bin\Debug\PU3.20_Sueldo_de_un_Trabajo.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.20_Sueldo_de_un_Trabajo\PU3.20_Sueldo_de_un_Trabajo\bin\Debug\PU3.20_Sueldo_de_un_Trabajo.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.20_Sueldo_de_un_Trabajo\PU3.20_Sueldo_de_un_Trabajo\bin\Debug\PU3.20_Sueldo_de_un_Trabajo.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.20_Sueldo_de_un_Trabajo\PU3.20_Sueldo_de_un_Trabajo\obj\Debug\PU3.20_Sueldo_de_un_Trabajo.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.20_Sueldo_de_un_Trabajo\PU3.20_Sueldo_de_un_Trabajo\obj\Debug\PU3.20_Sueldo_de_un_Trabajo.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.20_Sueldo_de_un_Trabajo\PU3.20_Sueldo_de_un_Trabajo\obj\Debug\PU3.20_Sueldo_de_un_Trabajo.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.20_Sueldo_de_un_Trabajo\PU3.20_Sueldo_de_un_Trabajo\obj\Debug\PU3.20_Sueldo_de_un_Trabajo.pdb

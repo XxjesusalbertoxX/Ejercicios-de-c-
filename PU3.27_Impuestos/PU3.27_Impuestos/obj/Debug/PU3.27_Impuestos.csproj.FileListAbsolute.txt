@@ -1,0 +1,7 @@
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.27_Impuestos\PU3.27_Impuestos\bin\Debug\PU3.27_Impuestos.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.27_Impuestos\PU3.27_Impuestos\bin\Debug\PU3.27_Impuestos.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.27_Impuestos\PU3.27_Impuestos\bin\Debug\PU3.27_Impuestos.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.27_Impuestos\PU3.27_Impuestos\obj\Debug\PU3.27_Impuestos.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.27_Impuestos\PU3.27_Impuestos\obj\Debug\PU3.27_Impuestos.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.27_Impuestos\PU3.27_Impuestos\obj\Debug\PU3.27_Impuestos.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.27_Impuestos\PU3.27_Impuestos\obj\Debug\PU3.27_Impuestos.pdb

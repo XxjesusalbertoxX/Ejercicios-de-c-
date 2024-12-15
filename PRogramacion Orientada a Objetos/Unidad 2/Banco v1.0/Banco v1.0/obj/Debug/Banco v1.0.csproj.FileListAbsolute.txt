@@ -1,0 +1,14 @@
+C:\Users\Windows\source\repos\Banco v1.0\Banco v1.0\obj\Debug\Banco v1.0.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\Banco v1.0\Banco v1.0\obj\Debug\Banco v1.0.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\Banco v1.0\Banco v1.0\bin\Debug\Banco v1.0.exe.config
+C:\Users\Windows\source\repos\Banco v1.0\Banco v1.0\bin\Debug\Banco v1.0.exe
+C:\Users\Windows\source\repos\Banco v1.0\Banco v1.0\bin\Debug\Banco v1.0.pdb
+C:\Users\Windows\source\repos\Banco v1.0\Banco v1.0\obj\Debug\Banco v1.0.exe
+C:\Users\Windows\source\repos\Banco v1.0\Banco v1.0\obj\Debug\Banco v1.0.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\Banco v1.0\Banco v1.0\bin\Debug\Banco v1.0.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\Banco v1.0\Banco v1.0\bin\Debug\Banco v1.0.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\Banco v1.0\Banco v1.0\bin\Debug\Banco v1.0.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\Banco v1.0\Banco v1.0\obj\Debug\Banco v1.0.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\Banco v1.0\Banco v1.0\obj\Debug\Banco v1.0.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\Banco v1.0\Banco v1.0\obj\Debug\Banco v1.0.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\Banco v1.0\Banco v1.0\obj\Debug\Banco v1.0.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PU3.7_Nombre_Dinosaurio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFCD5EC-B85F-4BDC-990B-DC49761D7500}|U3.7_Nombre_Dinosaurio\\U3.7_Nombre_Dinosaurio.csproj|c:\\users\\windows\\onedrive\\escritorio\\proyectos visual estudio\\pu3.7_nombre_dinosaurio\\u3.7_nombre_dinosaurio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFCD5EC-B85F-4BDC-990B-DC49761D7500}|U3.7_Nombre_Dinosaurio\\U3.7_Nombre_Dinosaurio.csproj|solutionrelative:u3.7_nombre_dinosaurio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PU3.7_Nombre_Dinosaurio\\U3.7_Nombre_Dinosaurio\\Program.cs",
+              "RelativeDocumentMoniker": "U3.7_Nombre_Dinosaurio\\Program.cs",
+              "ToolTip": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PU3.7_Nombre_Dinosaurio\\U3.7_Nombre_Dinosaurio\\Program.cs",
+              "RelativeToolTip": "U3.7_Nombre_Dinosaurio\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwBUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T20:37:52.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.25_Positivo_o_Negativo\PU3.25_Positivo_o_Negativo\bin\Debug\PU3.25_Positivo_o_Negativo.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.25_Positivo_o_Negativo\PU3.25_Positivo_o_Negativo\bin\Debug\PU3.25_Positivo_o_Negativo.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.25_Positivo_o_Negativo\PU3.25_Positivo_o_Negativo\bin\Debug\PU3.25_Positivo_o_Negativo.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.25_Positivo_o_Negativo\PU3.25_Positivo_o_Negativo\obj\Debug\PU3.25_Positivo_o_Negativo.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.25_Positivo_o_Negativo\PU3.25_Positivo_o_Negativo\obj\Debug\PU3.25_Positivo_o_Negativo.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.25_Positivo_o_Negativo\PU3.25_Positivo_o_Negativo\obj\Debug\PU3.25_Positivo_o_Negativo.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.25_Positivo_o_Negativo\PU3.25_Positivo_o_Negativo\obj\Debug\PU3.25_Positivo_o_Negativo.pdb

@@ -1,0 +1,7 @@
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.37_Nomina_FOR\PU3.37_Nomina_FOR\bin\Debug\PU3.37_Nomina_FOR.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.37_Nomina_FOR\PU3.37_Nomina_FOR\bin\Debug\PU3.37_Nomina_FOR.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.37_Nomina_FOR\PU3.37_Nomina_FOR\bin\Debug\PU3.37_Nomina_FOR.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.37_Nomina_FOR\PU3.37_Nomina_FOR\obj\Debug\PU3.37_Nomina_FOR.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.37_Nomina_FOR\PU3.37_Nomina_FOR\obj\Debug\PU3.37_Nomina_FOR.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.37_Nomina_FOR\PU3.37_Nomina_FOR\obj\Debug\PU3.37_Nomina_FOR.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.37_Nomina_FOR\PU3.37_Nomina_FOR\obj\Debug\PU3.37_Nomina_FOR.pdb

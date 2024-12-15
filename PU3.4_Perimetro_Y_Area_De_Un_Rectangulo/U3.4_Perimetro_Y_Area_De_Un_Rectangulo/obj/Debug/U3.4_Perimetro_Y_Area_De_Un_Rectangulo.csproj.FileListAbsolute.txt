@@ -1,0 +1,14 @@
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.4_Perimetro_Y_Area_De_Un_Rectangulo\U3.4_Perimetro_Y_Area_De_Un_Rectangulo\bin\Debug\U3.4_Perimetro_Y_Area_De_Un_Rectangulo.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.4_Perimetro_Y_Area_De_Un_Rectangulo\U3.4_Perimetro_Y_Area_De_Un_Rectangulo\bin\Debug\U3.4_Perimetro_Y_Area_De_Un_Rectangulo.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.4_Perimetro_Y_Area_De_Un_Rectangulo\U3.4_Perimetro_Y_Area_De_Un_Rectangulo\bin\Debug\U3.4_Perimetro_Y_Area_De_Un_Rectangulo.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.4_Perimetro_Y_Area_De_Un_Rectangulo\U3.4_Perimetro_Y_Area_De_Un_Rectangulo\obj\Debug\U3.4_Perimetro_Y_Area_De_Un_Rectangulo.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.4_Perimetro_Y_Area_De_Un_Rectangulo\U3.4_Perimetro_Y_Area_De_Un_Rectangulo\obj\Debug\U3.4_Perimetro_Y_Area_De_Un_Rectangulo.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.4_Perimetro_Y_Area_De_Un_Rectangulo\U3.4_Perimetro_Y_Area_De_Un_Rectangulo\obj\Debug\U3.4_Perimetro_Y_Area_De_Un_Rectangulo.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.4_Perimetro_Y_Area_De_Un_Rectangulo\U3.4_Perimetro_Y_Area_De_Un_Rectangulo\obj\Debug\U3.4_Perimetro_Y_Area_De_Un_Rectangulo.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.4_Perimetro_Y_Area_De_Un_Rectangulo\U3.4_Perimetro_Y_Area_De_Un_Rectangulo\bin\Debug\U3.4_Perimetro_Y_Area_De_Un_Rectangulo.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.4_Perimetro_Y_Area_De_Un_Rectangulo\U3.4_Perimetro_Y_Area_De_Un_Rectangulo\bin\Debug\U3.4_Perimetro_Y_Area_De_Un_Rectangulo.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.4_Perimetro_Y_Area_De_Un_Rectangulo\U3.4_Perimetro_Y_Area_De_Un_Rectangulo\bin\Debug\U3.4_Perimetro_Y_Area_De_Un_Rectangulo.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.4_Perimetro_Y_Area_De_Un_Rectangulo\U3.4_Perimetro_Y_Area_De_Un_Rectangulo\obj\Debug\U3.4_Perimetro_Y_Area_De_Un_Rectangulo.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.4_Perimetro_Y_Area_De_Un_Rectangulo\U3.4_Perimetro_Y_Area_De_Un_Rectangulo\obj\Debug\U3.4_Perimetro_Y_Area_De_Un_Rectangulo.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.4_Perimetro_Y_Area_De_Un_Rectangulo\U3.4_Perimetro_Y_Area_De_Un_Rectangulo\obj\Debug\U3.4_Perimetro_Y_Area_De_Un_Rectangulo.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.4_Perimetro_Y_Area_De_Un_Rectangulo\U3.4_Perimetro_Y_Area_De_Un_Rectangulo\obj\Debug\U3.4_Perimetro_Y_Area_De_Un_Rectangulo.pdb

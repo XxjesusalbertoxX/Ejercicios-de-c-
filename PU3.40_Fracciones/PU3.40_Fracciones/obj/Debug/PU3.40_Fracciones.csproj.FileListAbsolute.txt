@@ -1,0 +1,14 @@
+C:\Users\Windows\source\repos\PU3.40_Fracciones\PU3.40_Fracciones\bin\Debug\PU3.40_Fracciones.exe.config
+C:\Users\Windows\source\repos\PU3.40_Fracciones\PU3.40_Fracciones\bin\Debug\PU3.40_Fracciones.exe
+C:\Users\Windows\source\repos\PU3.40_Fracciones\PU3.40_Fracciones\bin\Debug\PU3.40_Fracciones.pdb
+C:\Users\Windows\source\repos\PU3.40_Fracciones\PU3.40_Fracciones\obj\Debug\PU3.40_Fracciones.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\PU3.40_Fracciones\PU3.40_Fracciones\obj\Debug\PU3.40_Fracciones.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\PU3.40_Fracciones\PU3.40_Fracciones\obj\Debug\PU3.40_Fracciones.exe
+C:\Users\Windows\source\repos\PU3.40_Fracciones\PU3.40_Fracciones\obj\Debug\PU3.40_Fracciones.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.40_Fracciones\PU3.40_Fracciones\bin\Debug\PU3.40_Fracciones.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.40_Fracciones\PU3.40_Fracciones\bin\Debug\PU3.40_Fracciones.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.40_Fracciones\PU3.40_Fracciones\bin\Debug\PU3.40_Fracciones.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.40_Fracciones\PU3.40_Fracciones\obj\Debug\PU3.40_Fracciones.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.40_Fracciones\PU3.40_Fracciones\obj\Debug\PU3.40_Fracciones.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.40_Fracciones\PU3.40_Fracciones\obj\Debug\PU3.40_Fracciones.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.40_Fracciones\PU3.40_Fracciones\obj\Debug\PU3.40_Fracciones.pdb

@@ -1,0 +1,7 @@
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.12_Calcular_Distancia\PU3.12_Calcular_Distancia\bin\Debug\PU3.12_Calcular_Distancia.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.12_Calcular_Distancia\PU3.12_Calcular_Distancia\bin\Debug\PU3.12_Calcular_Distancia.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.12_Calcular_Distancia\PU3.12_Calcular_Distancia\bin\Debug\PU3.12_Calcular_Distancia.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.12_Calcular_Distancia\PU3.12_Calcular_Distancia\obj\Debug\PU3.12_Calcular_Distancia.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.12_Calcular_Distancia\PU3.12_Calcular_Distancia\obj\Debug\PU3.12_Calcular_Distancia.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.12_Calcular_Distancia\PU3.12_Calcular_Distancia\obj\Debug\PU3.12_Calcular_Distancia.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.12_Calcular_Distancia\PU3.12_Calcular_Distancia\obj\Debug\PU3.12_Calcular_Distancia.pdb

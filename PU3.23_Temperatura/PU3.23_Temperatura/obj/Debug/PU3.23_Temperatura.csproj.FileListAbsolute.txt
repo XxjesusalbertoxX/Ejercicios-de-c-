@@ -1,0 +1,7 @@
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.23_Temperatura\PU3.23_Temperatura\bin\Debug\PU3.23_Temperatura.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.23_Temperatura\PU3.23_Temperatura\bin\Debug\PU3.23_Temperatura.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.23_Temperatura\PU3.23_Temperatura\bin\Debug\PU3.23_Temperatura.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.23_Temperatura\PU3.23_Temperatura\obj\Debug\PU3.23_Temperatura.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.23_Temperatura\PU3.23_Temperatura\obj\Debug\PU3.23_Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.23_Temperatura\PU3.23_Temperatura\obj\Debug\PU3.23_Temperatura.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.23_Temperatura\PU3.23_Temperatura\obj\Debug\PU3.23_Temperatura.pdb

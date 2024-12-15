@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PRogramacion Orientada a Objetos\\Unidad 3\\Clase_15_Julio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B09D7FEF-7E57-4B8A-8993-B99D97D09F7A}|Clase_15_Julio\\Clase_15_Julio.csproj|c:\\users\\windows\\onedrive\\escritorio\\proyectos visual estudio\\programacion orientada a objetos\\unidad 3\\clase_15_julio\\clase_15_julio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B09D7FEF-7E57-4B8A-8993-B99D97D09F7A}|Clase_15_Julio\\Clase_15_Julio.csproj|solutionrelative:clase_15_julio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B09D7FEF-7E57-4B8A-8993-B99D97D09F7A}|Clase_15_Julio\\Clase_15_Julio.csproj|C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PRogramacion Orientada a Objetos\\Unidad 3\\Clase_15_Julio\\clase_15_julio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B09D7FEF-7E57-4B8A-8993-B99D97D09F7A}|Clase_15_Julio\\Clase_15_Julio.csproj|solutionrelative:clase_15_julio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B09D7FEF-7E57-4B8A-8993-B99D97D09F7A}|Clase_15_Julio\\Clase_15_Julio.csproj|C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PRogramacion Orientada a Objetos\\Unidad 3\\Clase_15_Julio\\clase_15_julio\\importacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B09D7FEF-7E57-4B8A-8993-B99D97D09F7A}|Clase_15_Julio\\Clase_15_Julio.csproj|solutionrelative:clase_15_julio\\importacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Importacion.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PRogramacion Orientada a Objetos\\Unidad 3\\Clase_15_Julio\\Clase_15_Julio\\Importacion.cs",
+              "RelativeDocumentMoniker": "Clase_15_Julio\\Importacion.cs",
+              "ToolTip": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PRogramacion Orientada a Objetos\\Unidad 3\\Clase_15_Julio\\Clase_15_Julio\\Importacion.cs",
+              "RelativeToolTip": "Clase_15_Julio\\Importacion.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T18:43:45.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PRogramacion Orientada a Objetos\\Unidad 3\\Clase_15_Julio\\Clase_15_Julio\\Form1.cs",
+              "RelativeDocumentMoniker": "Clase_15_Julio\\Form1.cs",
+              "ToolTip": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PRogramacion Orientada a Objetos\\Unidad 3\\Clase_15_Julio\\Clase_15_Julio\\Form1.cs*",
+              "RelativeToolTip": "Clase_15_Julio\\Form1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T18:43:12.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PRogramacion Orientada a Objetos\\Unidad 3\\Clase_15_Julio\\Clase_15_Julio\\Form1.cs",
+              "RelativeDocumentMoniker": "Clase_15_Julio\\Form1.cs",
+              "ToolTip": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PRogramacion Orientada a Objetos\\Unidad 3\\Clase_15_Julio\\Clase_15_Julio\\Form1.cs [Design]*",
+              "RelativeToolTip": "Clase_15_Julio\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T18:32:43.517Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

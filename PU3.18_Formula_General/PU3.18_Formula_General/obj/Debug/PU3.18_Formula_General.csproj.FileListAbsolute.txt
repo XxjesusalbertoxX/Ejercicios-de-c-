@@ -1,0 +1,7 @@
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.18_Formula_General\PU3.18_Formula_General\bin\Debug\PU3.18_Formula_General.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.18_Formula_General\PU3.18_Formula_General\bin\Debug\PU3.18_Formula_General.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.18_Formula_General\PU3.18_Formula_General\bin\Debug\PU3.18_Formula_General.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.18_Formula_General\PU3.18_Formula_General\obj\Debug\PU3.18_Formula_General.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.18_Formula_General\PU3.18_Formula_General\obj\Debug\PU3.18_Formula_General.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.18_Formula_General\PU3.18_Formula_General\obj\Debug\PU3.18_Formula_General.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.18_Formula_General\PU3.18_Formula_General\obj\Debug\PU3.18_Formula_General.pdb

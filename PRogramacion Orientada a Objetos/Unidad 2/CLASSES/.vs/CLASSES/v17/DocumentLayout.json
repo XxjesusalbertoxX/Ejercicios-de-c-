@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PRogramacion Orientada a Objetos\\Unidad 2\\CLASSES\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83AC0E6D-DE61-4952-967D-994090AB565E}|CLASSES\\CLASSES.csproj|c:\\users\\windows\\onedrive\\escritorio\\proyectos visual estudio\\programacion orientada a objetos\\unidad 2\\classes\\classes\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83AC0E6D-DE61-4952-967D-994090AB565E}|CLASSES\\CLASSES.csproj|solutionrelative:classes\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83AC0E6D-DE61-4952-967D-994090AB565E}|CLASSES\\CLASSES.csproj|C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PRogramacion Orientada a Objetos\\Unidad 2\\CLASSES\\classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83AC0E6D-DE61-4952-967D-994090AB565E}|CLASSES\\CLASSES.csproj|solutionrelative:classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PRogramacion Orientada a Objetos\\Unidad 2\\CLASSES\\CLASSES\\Triangulo.cs",
+              "RelativeDocumentMoniker": "CLASSES\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PRogramacion Orientada a Objetos\\Unidad 2\\CLASSES\\CLASSES\\Triangulo.cs",
+              "RelativeToolTip": "CLASSES\\Triangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:30:23.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PRogramacion Orientada a Objetos\\Unidad 2\\CLASSES\\CLASSES\\Program.cs",
+              "RelativeDocumentMoniker": "CLASSES\\Program.cs",
+              "ToolTip": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PRogramacion Orientada a Objetos\\Unidad 2\\CLASSES\\CLASSES\\Program.cs",
+              "RelativeToolTip": "CLASSES\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:29:42.038Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

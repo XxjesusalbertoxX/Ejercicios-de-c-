@@ -1,0 +1,14 @@
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Area de Figuras\Area de Figuras\bin\Debug\Area de Figuras.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Area de Figuras\Area de Figuras\bin\Debug\Area de Figuras.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Area de Figuras\Area de Figuras\bin\Debug\Area de Figuras.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Area de Figuras\Area de Figuras\obj\Debug\Area de Figuras.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Area de Figuras\Area de Figuras\obj\Debug\Area de Figuras.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Area de Figuras\Area de Figuras\obj\Debug\Area de Figuras.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Area de Figuras\Area de Figuras\obj\Debug\Area de Figuras.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\Area de Figuras\Area de Figuras\bin\Debug\Area de Figuras.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\Area de Figuras\Area de Figuras\bin\Debug\Area de Figuras.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\Area de Figuras\Area de Figuras\bin\Debug\Area de Figuras.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\Area de Figuras\Area de Figuras\obj\Debug\Area de Figuras.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\Area de Figuras\Area de Figuras\obj\Debug\Area de Figuras.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\Area de Figuras\Area de Figuras\obj\Debug\Area de Figuras.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\Area de Figuras\Area de Figuras\obj\Debug\Area de Figuras.pdb

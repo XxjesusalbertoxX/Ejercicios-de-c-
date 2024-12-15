@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PU3.10_Numero_De_Segundo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{813005C5-BD4D-45D7-B1A4-3658C9223A0F}|U3.10_Numero_De_Segundo\\U3.10_Numero_De_Segundo.csproj|c:\\users\\windows\\onedrive\\escritorio\\proyectos visual estudio\\pu3.10_numero_de_segundo\\u3.10_numero_de_segundo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{813005C5-BD4D-45D7-B1A4-3658C9223A0F}|U3.10_Numero_De_Segundo\\U3.10_Numero_De_Segundo.csproj|solutionrelative:u3.10_numero_de_segundo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PU3.10_Numero_De_Segundo\\U3.10_Numero_De_Segundo\\Program.cs",
+              "RelativeDocumentMoniker": "U3.10_Numero_De_Segundo\\Program.cs",
+              "ToolTip": "C:\\Users\\Windows\\OneDrive\\Escritorio\\Proyectos Visual Estudio\\PU3.10_Numero_De_Segundo\\U3.10_Numero_De_Segundo\\Program.cs",
+              "RelativeToolTip": "U3.10_Numero_De_Segundo\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T14:27:46.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

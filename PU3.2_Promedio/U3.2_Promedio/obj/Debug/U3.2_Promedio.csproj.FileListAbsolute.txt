@@ -1,0 +1,7 @@
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.2_Promedio\U3.2_Promedio\bin\Debug\U3.2_Promedio.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.2_Promedio\U3.2_Promedio\bin\Debug\U3.2_Promedio.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.2_Promedio\U3.2_Promedio\bin\Debug\U3.2_Promedio.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.2_Promedio\U3.2_Promedio\obj\Debug\U3.2_Promedio.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.2_Promedio\U3.2_Promedio\obj\Debug\U3.2_Promedio.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.2_Promedio\U3.2_Promedio\obj\Debug\U3.2_Promedio.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.2_Promedio\U3.2_Promedio\obj\Debug\U3.2_Promedio.pdb

@@ -1,0 +1,7 @@
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.10_Numero_De_Segundo\U3.10_Numero_De_Segundo\bin\Debug\U3.10_Numero_De_Segundo.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.10_Numero_De_Segundo\U3.10_Numero_De_Segundo\bin\Debug\U3.10_Numero_De_Segundo.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.10_Numero_De_Segundo\U3.10_Numero_De_Segundo\bin\Debug\U3.10_Numero_De_Segundo.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.10_Numero_De_Segundo\U3.10_Numero_De_Segundo\obj\Debug\U3.10_Numero_De_Segundo.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.10_Numero_De_Segundo\U3.10_Numero_De_Segundo\obj\Debug\U3.10_Numero_De_Segundo.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.10_Numero_De_Segundo\U3.10_Numero_De_Segundo\obj\Debug\U3.10_Numero_De_Segundo.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.10_Numero_De_Segundo\U3.10_Numero_De_Segundo\obj\Debug\U3.10_Numero_De_Segundo.pdb

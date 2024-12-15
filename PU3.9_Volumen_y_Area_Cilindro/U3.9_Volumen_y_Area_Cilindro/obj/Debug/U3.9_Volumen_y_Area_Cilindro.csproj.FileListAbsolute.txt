@@ -1,0 +1,7 @@
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.9_Volumen_y_Area_Cilindro\U3.9_Volumen_y_Area_Cilindro\bin\Debug\U3.9_Volumen_y_Area_Cilindro.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.9_Volumen_y_Area_Cilindro\U3.9_Volumen_y_Area_Cilindro\bin\Debug\U3.9_Volumen_y_Area_Cilindro.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.9_Volumen_y_Area_Cilindro\U3.9_Volumen_y_Area_Cilindro\bin\Debug\U3.9_Volumen_y_Area_Cilindro.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.9_Volumen_y_Area_Cilindro\U3.9_Volumen_y_Area_Cilindro\obj\Debug\U3.9_Volumen_y_Area_Cilindro.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.9_Volumen_y_Area_Cilindro\U3.9_Volumen_y_Area_Cilindro\obj\Debug\U3.9_Volumen_y_Area_Cilindro.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.9_Volumen_y_Area_Cilindro\U3.9_Volumen_y_Area_Cilindro\obj\Debug\U3.9_Volumen_y_Area_Cilindro.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\U3.9_Volumen_y_Area_Cilindro\U3.9_Volumen_y_Area_Cilindro\obj\Debug\U3.9_Volumen_y_Area_Cilindro.pdb

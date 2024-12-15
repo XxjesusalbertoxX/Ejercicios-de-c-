@@ -1,0 +1,7 @@
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.44_Aumento_de_Empresa\PU3.44_Aumento_de_Empresa\bin\Debug\PU3.44_Aumento_de_Empresa.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.44_Aumento_de_Empresa\PU3.44_Aumento_de_Empresa\bin\Debug\PU3.44_Aumento_de_Empresa.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.44_Aumento_de_Empresa\PU3.44_Aumento_de_Empresa\bin\Debug\PU3.44_Aumento_de_Empresa.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.44_Aumento_de_Empresa\PU3.44_Aumento_de_Empresa\obj\Debug\PU3.44_Aumento_de_Empresa.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.44_Aumento_de_Empresa\PU3.44_Aumento_de_Empresa\obj\Debug\PU3.44_Aumento_de_Empresa.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.44_Aumento_de_Empresa\PU3.44_Aumento_de_Empresa\obj\Debug\PU3.44_Aumento_de_Empresa.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.44_Aumento_de_Empresa\PU3.44_Aumento_de_Empresa\obj\Debug\PU3.44_Aumento_de_Empresa.pdb

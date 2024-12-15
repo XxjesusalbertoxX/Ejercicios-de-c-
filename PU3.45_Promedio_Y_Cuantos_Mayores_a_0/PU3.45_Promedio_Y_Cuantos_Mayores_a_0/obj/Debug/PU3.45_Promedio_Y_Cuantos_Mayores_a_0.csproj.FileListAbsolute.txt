@@ -1,0 +1,14 @@
+C:\Users\Windows\source\repos\PU3.45_Promedio_Y_Cuantos_Mayores_a_0\PU3.45_Promedio_Y_Cuantos_Mayores_a_0\bin\Debug\PU3.45_Promedio_Y_Cuantos_Mayores_a_0.exe.config
+C:\Users\Windows\source\repos\PU3.45_Promedio_Y_Cuantos_Mayores_a_0\PU3.45_Promedio_Y_Cuantos_Mayores_a_0\bin\Debug\PU3.45_Promedio_Y_Cuantos_Mayores_a_0.exe
+C:\Users\Windows\source\repos\PU3.45_Promedio_Y_Cuantos_Mayores_a_0\PU3.45_Promedio_Y_Cuantos_Mayores_a_0\bin\Debug\PU3.45_Promedio_Y_Cuantos_Mayores_a_0.pdb
+C:\Users\Windows\source\repos\PU3.45_Promedio_Y_Cuantos_Mayores_a_0\PU3.45_Promedio_Y_Cuantos_Mayores_a_0\obj\Debug\PU3.45_Promedio_Y_Cuantos_Mayores_a_0.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\PU3.45_Promedio_Y_Cuantos_Mayores_a_0\PU3.45_Promedio_Y_Cuantos_Mayores_a_0\obj\Debug\PU3.45_Promedio_Y_Cuantos_Mayores_a_0.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\PU3.45_Promedio_Y_Cuantos_Mayores_a_0\PU3.45_Promedio_Y_Cuantos_Mayores_a_0\obj\Debug\PU3.45_Promedio_Y_Cuantos_Mayores_a_0.exe
+C:\Users\Windows\source\repos\PU3.45_Promedio_Y_Cuantos_Mayores_a_0\PU3.45_Promedio_Y_Cuantos_Mayores_a_0\obj\Debug\PU3.45_Promedio_Y_Cuantos_Mayores_a_0.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.45_Promedio_Y_Cuantos_Mayores_a_0\PU3.45_Promedio_Y_Cuantos_Mayores_a_0\bin\Debug\PU3.45_Promedio_Y_Cuantos_Mayores_a_0.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.45_Promedio_Y_Cuantos_Mayores_a_0\PU3.45_Promedio_Y_Cuantos_Mayores_a_0\bin\Debug\PU3.45_Promedio_Y_Cuantos_Mayores_a_0.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.45_Promedio_Y_Cuantos_Mayores_a_0\PU3.45_Promedio_Y_Cuantos_Mayores_a_0\bin\Debug\PU3.45_Promedio_Y_Cuantos_Mayores_a_0.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.45_Promedio_Y_Cuantos_Mayores_a_0\PU3.45_Promedio_Y_Cuantos_Mayores_a_0\obj\Debug\PU3.45_Promedio_Y_Cuantos_Mayores_a_0.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.45_Promedio_Y_Cuantos_Mayores_a_0\PU3.45_Promedio_Y_Cuantos_Mayores_a_0\obj\Debug\PU3.45_Promedio_Y_Cuantos_Mayores_a_0.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.45_Promedio_Y_Cuantos_Mayores_a_0\PU3.45_Promedio_Y_Cuantos_Mayores_a_0\obj\Debug\PU3.45_Promedio_Y_Cuantos_Mayores_a_0.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.45_Promedio_Y_Cuantos_Mayores_a_0\PU3.45_Promedio_Y_Cuantos_Mayores_a_0\obj\Debug\PU3.45_Promedio_Y_Cuantos_Mayores_a_0.pdb

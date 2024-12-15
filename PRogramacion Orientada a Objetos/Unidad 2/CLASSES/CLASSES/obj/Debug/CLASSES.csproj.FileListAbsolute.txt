@@ -1,0 +1,14 @@
+C:\Users\Windows\source\repos\CLASSES\CLASSES\bin\Debug\CLASSES.exe.config
+C:\Users\Windows\source\repos\CLASSES\CLASSES\bin\Debug\CLASSES.exe
+C:\Users\Windows\source\repos\CLASSES\CLASSES\bin\Debug\CLASSES.pdb
+C:\Users\Windows\source\repos\CLASSES\CLASSES\obj\Debug\CLASSES.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\CLASSES\CLASSES\obj\Debug\CLASSES.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\CLASSES\CLASSES\obj\Debug\CLASSES.exe
+C:\Users\Windows\source\repos\CLASSES\CLASSES\obj\Debug\CLASSES.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\CLASSES\CLASSES\bin\Debug\CLASSES.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\CLASSES\CLASSES\bin\Debug\CLASSES.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\CLASSES\CLASSES\bin\Debug\CLASSES.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\CLASSES\CLASSES\obj\Debug\CLASSES.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\CLASSES\CLASSES\obj\Debug\CLASSES.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\CLASSES\CLASSES\obj\Debug\CLASSES.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PRogramacion Orientada a Objetos\Unidad 2\CLASSES\CLASSES\obj\Debug\CLASSES.pdb

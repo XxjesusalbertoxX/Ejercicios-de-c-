@@ -1,0 +1,14 @@
+C:\Users\Windows\source\repos\PU3.42_Suma_de_Gastos\PU3.42_Suma_de_Gastos\bin\Debug\PU3.42_Suma_de_Gastos.exe.config
+C:\Users\Windows\source\repos\PU3.42_Suma_de_Gastos\PU3.42_Suma_de_Gastos\bin\Debug\PU3.42_Suma_de_Gastos.exe
+C:\Users\Windows\source\repos\PU3.42_Suma_de_Gastos\PU3.42_Suma_de_Gastos\bin\Debug\PU3.42_Suma_de_Gastos.pdb
+C:\Users\Windows\source\repos\PU3.42_Suma_de_Gastos\PU3.42_Suma_de_Gastos\obj\Debug\PU3.42_Suma_de_Gastos.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\PU3.42_Suma_de_Gastos\PU3.42_Suma_de_Gastos\obj\Debug\PU3.42_Suma_de_Gastos.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\PU3.42_Suma_de_Gastos\PU3.42_Suma_de_Gastos\obj\Debug\PU3.42_Suma_de_Gastos.exe
+C:\Users\Windows\source\repos\PU3.42_Suma_de_Gastos\PU3.42_Suma_de_Gastos\obj\Debug\PU3.42_Suma_de_Gastos.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.42_Suma_de_Gastos\PU3.42_Suma_de_Gastos\bin\Debug\PU3.42_Suma_de_Gastos.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.42_Suma_de_Gastos\PU3.42_Suma_de_Gastos\bin\Debug\PU3.42_Suma_de_Gastos.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.42_Suma_de_Gastos\PU3.42_Suma_de_Gastos\bin\Debug\PU3.42_Suma_de_Gastos.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.42_Suma_de_Gastos\PU3.42_Suma_de_Gastos\obj\Debug\PU3.42_Suma_de_Gastos.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.42_Suma_de_Gastos\PU3.42_Suma_de_Gastos\obj\Debug\PU3.42_Suma_de_Gastos.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.42_Suma_de_Gastos\PU3.42_Suma_de_Gastos\obj\Debug\PU3.42_Suma_de_Gastos.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.42_Suma_de_Gastos\PU3.42_Suma_de_Gastos\obj\Debug\PU3.42_Suma_de_Gastos.pdb

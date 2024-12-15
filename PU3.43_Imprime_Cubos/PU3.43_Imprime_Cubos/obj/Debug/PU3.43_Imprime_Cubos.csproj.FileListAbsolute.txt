@@ -1,0 +1,14 @@
+C:\Users\Windows\source\repos\PU3.43_Imprime_Cubos\PU3.43_Imprime_Cubos\bin\Debug\PU3.43_Imprime_Cubos.exe.config
+C:\Users\Windows\source\repos\PU3.43_Imprime_Cubos\PU3.43_Imprime_Cubos\bin\Debug\PU3.43_Imprime_Cubos.exe
+C:\Users\Windows\source\repos\PU3.43_Imprime_Cubos\PU3.43_Imprime_Cubos\bin\Debug\PU3.43_Imprime_Cubos.pdb
+C:\Users\Windows\source\repos\PU3.43_Imprime_Cubos\PU3.43_Imprime_Cubos\obj\Debug\PU3.43_Imprime_Cubos.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\PU3.43_Imprime_Cubos\PU3.43_Imprime_Cubos\obj\Debug\PU3.43_Imprime_Cubos.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\PU3.43_Imprime_Cubos\PU3.43_Imprime_Cubos\obj\Debug\PU3.43_Imprime_Cubos.exe
+C:\Users\Windows\source\repos\PU3.43_Imprime_Cubos\PU3.43_Imprime_Cubos\obj\Debug\PU3.43_Imprime_Cubos.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.43_Imprime_Cubos\PU3.43_Imprime_Cubos\bin\Debug\PU3.43_Imprime_Cubos.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.43_Imprime_Cubos\PU3.43_Imprime_Cubos\bin\Debug\PU3.43_Imprime_Cubos.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.43_Imprime_Cubos\PU3.43_Imprime_Cubos\bin\Debug\PU3.43_Imprime_Cubos.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.43_Imprime_Cubos\PU3.43_Imprime_Cubos\obj\Debug\PU3.43_Imprime_Cubos.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.43_Imprime_Cubos\PU3.43_Imprime_Cubos\obj\Debug\PU3.43_Imprime_Cubos.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.43_Imprime_Cubos\PU3.43_Imprime_Cubos\obj\Debug\PU3.43_Imprime_Cubos.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.43_Imprime_Cubos\PU3.43_Imprime_Cubos\obj\Debug\PU3.43_Imprime_Cubos.pdb

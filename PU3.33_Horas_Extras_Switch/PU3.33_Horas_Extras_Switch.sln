@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34707.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PU3.33_Horas_Extras_Switch", "PU3.33_Horas_Extras_Switch\PU3.33_Horas_Extras_Switch.csproj", "{46DBBA5E-9FCE-4F15-A570-24101A34D88C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46DBBA5E-9FCE-4F15-A570-24101A34D88C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46DBBA5E-9FCE-4F15-A570-24101A34D88C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46DBBA5E-9FCE-4F15-A570-24101A34D88C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46DBBA5E-9FCE-4F15-A570-24101A34D88C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7B2FABE-F41E-416F-A305-D37405A9D136}
+	EndGlobalSection
+EndGlobal

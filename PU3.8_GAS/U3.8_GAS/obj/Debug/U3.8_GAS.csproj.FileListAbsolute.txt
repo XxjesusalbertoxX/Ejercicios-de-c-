@@ -1,0 +1,7 @@
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.8_GAS\U3.8_GAS\bin\Debug\U3.8_GAS.exe.config
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.8_GAS\U3.8_GAS\bin\Debug\U3.8_GAS.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.8_GAS\U3.8_GAS\bin\Debug\U3.8_GAS.pdb
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.8_GAS\U3.8_GAS\obj\Debug\U3.8_GAS.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.8_GAS\U3.8_GAS\obj\Debug\U3.8_GAS.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.8_GAS\U3.8_GAS\obj\Debug\U3.8_GAS.exe
+C:\Users\Windows\OneDrive\Escritorio\Proyectos Visual Estudio\PU3.8_GAS\U3.8_GAS\obj\Debug\U3.8_GAS.pdb
